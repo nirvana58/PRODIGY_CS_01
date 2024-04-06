@@ -3,8 +3,8 @@ This Python program implements the Caesar Cipher, a simple substitution cipher u
 
 ## Usage:
 Clone this repository to your local machine.
-Run the script using Python 3:
- python caesar_cipher.py
+Run the script using Python 3:		
+python caesar_cipher.py
 Follow the prompts:
 Enter your message.
 Provide a positive shift value for encryption or a negative shift value for decryption.
