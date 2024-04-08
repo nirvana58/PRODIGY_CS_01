@@ -3,12 +3,14 @@ This Python program implements the Caesar Cipher, a simple substitution cipher u
 
 ## Usage:
 Clone this repository to your local machine.
-Run the script using Python 3:		
+Run the script using Python 3:	
+```
 python caesar_cipher.py
+```
 Follow the prompts:
-Enter your message.
-Provide a positive shift value for encryption or a negative shift value for decryption.
-Choose the mode (‘encrypt’ or ‘decrypt’).
+1. Enter your message.
+2. Provide a positive shift value for encryption or a negative shift value for decryption.
+3. Choose the mode (‘encrypt’ or‘decrypt’).
 
 ### Example
 Suppose you want to encrypt the message “HELLO, WORLD!” with a shift value of 3. Here’s how you would use the program:
